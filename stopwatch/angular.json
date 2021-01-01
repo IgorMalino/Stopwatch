@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "stopwatch"
+  "defaultProject": "stopwatch",
+  "cli": {
+    "analytics": "4d0c1463-d8f9-4d8e-94cd-4004ec18137e"
+  }
 }
